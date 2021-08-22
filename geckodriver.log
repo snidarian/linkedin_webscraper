@@ -184,3 +184,649 @@ Exiting due to channel error.
 JavaScript warning: https://static-exp1.licdn.com/sc/h/1v3isdnwa9w8z0s8534cllu6m, line 3737: unreachable code after return statement
 JavaScript warning: https://static-exp1.licdn.com/sc/h/1v3isdnwa9w8z0s8534cllu6m, line 3737: unreachable code after return statement
 1626470672897	Marionette	INFO	Stopped listening on port 42513
+1626977129602	geckodriver	INFO	Listening on 127.0.0.1:37333
+1626977130637	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFKHYcD"
+1626977131871	Marionette	INFO	Listening on port 39213
+1626977131941	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/crq9ppghoqmequfeeo90tj286, line 3746: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/crq9ppghoqmequfeeo90tj286, line 3746: unreachable code after return statement
+1626977175044	Marionette	INFO	Stopped listening on port 39213
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1626977188123	geckodriver	INFO	Listening on 127.0.0.1:45607
+1626977188129	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebIe3eY"
+1626977189250	Marionette	INFO	Listening on port 37049
+1626977189332	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/crq9ppghoqmequfeeo90tj286, line 3746: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/crq9ppghoqmequfeeo90tj286, line 3746: unreachable code after return statement
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+JavaScript warning: https://static-exp1.licdn.com/sc/h/crq9ppghoqmequfeeo90tj286, line 3746: unreachable code after return statement
+console.warn: "Failed to enumerate localStorage for host https://lnkd.demdex.net: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://radar.cedexis.com: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate sessionStorage for host https://lnkd.demdex.net: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate sessionStorage for host https://radar.cedexis.com: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate CacheStorage for host https://lnkd.demdex.net: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate CacheStorage for host https://radar.cedexis.com: TypeError: caches is null"
+1626979441612	geckodriver	INFO	Listening on 127.0.0.1:46535
+1626979442657	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqdBdj6"
+1626979443832	Marionette	INFO	Listening on port 33163
+1626979443876	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1626979691031	geckodriver	INFO	Listening on 127.0.0.1:37483
+1626979692039	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledqjNXN"
+1626979693150	Marionette	INFO	Listening on port 41797
+1626979693242	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/crq9ppghoqmequfeeo90tj286, line 3746: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/crq9ppghoqmequfeeo90tj286, line 3746: unreachable code after return statement
+1626980923442	Marionette	INFO	Stopped listening on port 41797
+1626980926364	geckodriver	INFO	Listening on 127.0.0.1:59423
+1626980926369	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1eu9GV"
+1626980927477	Marionette	INFO	Listening on port 40359
+1626980927573	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/crq9ppghoqmequfeeo90tj286, line 3746: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/crq9ppghoqmequfeeo90tj286, line 3746: unreachable code after return statement
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+JavaScript warning: https://static-exp1.licdn.com/sc/h/crq9ppghoqmequfeeo90tj286, line 3746: unreachable code after return statement
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1626981007610	Marionette	INFO	Stopped listening on port 40359
+console.error: "Error while calling actor 'domnode's method 'getImageData'" ""
+console.error: "imageToImageData@resource://devtools/server/actors/inspector/utils.js:339:9\n"
+1626982376373	geckodriver	INFO	Listening on 127.0.0.1:41213
+1626982376378	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemm49qi"
+1626982377463	Marionette	INFO	Listening on port 35609
+1626982377485	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/crq9ppghoqmequfeeo90tj286, line 3746: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/crq9ppghoqmequfeeo90tj286, line 3746: unreachable code after return statement
+1626982440145	Marionette	INFO	Stopped listening on port 35609
+1626982582937	geckodriver	INFO	Listening on 127.0.0.1:50743
+1626982582943	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezMhPMk"
+1626982584018	Marionette	INFO	Listening on port 41793
+1626982584047	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/crq9ppghoqmequfeeo90tj286, line 3746: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/crq9ppghoqmequfeeo90tj286, line 3746: unreachable code after return statement
+1626982624573	Marionette	INFO	Stopped listening on port 41793
+1626982651516	geckodriver	INFO	Listening on 127.0.0.1:60313
+1626982651524	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehxY7jB"
+1626982652708	Marionette	INFO	Listening on port 44561
+1626982652728	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/crq9ppghoqmequfeeo90tj286, line 3746: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/crq9ppghoqmequfeeo90tj286, line 3746: unreachable code after return statement
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626982713755	Marionette	INFO	Stopped listening on port 44561
+1626982732054	geckodriver	INFO	Listening on 127.0.0.1:39431
+1626982732060	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileY3aSi2"
+1626982733154	Marionette	INFO	Listening on port 38505
+1626982733168	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/crq9ppghoqmequfeeo90tj286, line 3746: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/crq9ppghoqmequfeeo90tj286, line 3746: unreachable code after return statement
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+JavaScript warning: https://static-exp1.licdn.com/sc/h/crq9ppghoqmequfeeo90tj286, line 3746: unreachable code after return statement
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1626982877648	Marionette	INFO	Stopped listening on port 38505
+1626982880765	geckodriver	INFO	Listening on 127.0.0.1:58637
+1626982880771	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2hruwz"
+1626982881881	Marionette	INFO	Listening on port 35787
+1626982881975	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/crq9ppghoqmequfeeo90tj286, line 3746: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/crq9ppghoqmequfeeo90tj286, line 3746: unreachable code after return statement
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+JavaScript warning: https://static-exp1.licdn.com/sc/h/crq9ppghoqmequfeeo90tj286, line 3746: unreachable code after return statement
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1626983699568	Marionette	INFO	Stopped listening on port 37049
+1626983744616	geckodriver	INFO	Listening on 127.0.0.1:59539
+1626983744620	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOh8OR5"
+1626983745705	Marionette	INFO	Listening on port 34531
+1626983745729	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/crq9ppghoqmequfeeo90tj286, line 3746: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/crq9ppghoqmequfeeo90tj286, line 3746: unreachable code after return statement
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626983923229	Marionette	INFO	Stopped listening on port 34531
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:409:10
+
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:162:37\nonPacket@resource://devtools/server/devtools-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+1626984130013	geckodriver	INFO	Listening on 127.0.0.1:44367
+1626984130019	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaOED2s"
+1626984131091	Marionette	INFO	Listening on port 44063
+1626984131123	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/crq9ppghoqmequfeeo90tj286, line 3746: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/crq9ppghoqmequfeeo90tj286, line 3746: unreachable code after return statement
+1626984148741	Marionette	INFO	Stopped listening on port 44063
+1626984175850	geckodriver	INFO	Listening on 127.0.0.1:59437
+1626984175855	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKUX9iU"
+1626984176979	Marionette	INFO	Listening on port 44429
+1626984177058	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/crq9ppghoqmequfeeo90tj286, line 3746: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/crq9ppghoqmequfeeo90tj286, line 3746: unreachable code after return statement
+1626984211624	Marionette	INFO	Stopped listening on port 44429
+1626984267383	geckodriver	INFO	Listening on 127.0.0.1:43125
+1626984267388	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejX48fR"
+1626984268533	Marionette	INFO	Listening on port 37729
+1626984268591	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/crq9ppghoqmequfeeo90tj286, line 3746: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/crq9ppghoqmequfeeo90tj286, line 3746: unreachable code after return statement
+JavaScript error: https://static-exp1.licdn.com/sc/h/doxb3e65wy4cuqgrz78j9x83, line 563: TypeError: this.controller is undefined
+1626984298761	Marionette	INFO	Stopped listening on port 37729
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 34634, MediaDecoderStateMachine #1] WARNING: Decoder=7f6042862800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file ./dom/media/MediaDecoderStateMachine.cpp, line 3470
+[Child 34634, MediaDecoderStateMachine #1] WARNING: Decoder=7f6042862800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file ./dom/media/MediaDecoderStateMachine.cpp, line 3470
+[Child 34634, MediaDecoderStateMachine #1] WARNING: Decoder=7f6042862800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file ./dom/media/MediaDecoderStateMachine.cpp, line 3470
+[Child 34634, MediaDecoderStateMachine #1] WARNING: Decoder=7f6042862800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file ./dom/media/MediaDecoderStateMachine.cpp, line 3470
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+1626985514929	geckodriver	INFO	Listening on 127.0.0.1:51187
+1626985514936	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileW1g0Wq"
+1626985516081	Marionette	INFO	Listening on port 34917
+1626985516139	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/crq9ppghoqmequfeeo90tj286, line 3746: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/crq9ppghoqmequfeeo90tj286, line 3746: unreachable code after return statement
+1626985603757	geckodriver	INFO	Listening on 127.0.0.1:44871
+1626985603762	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilev428XY"
+1626985604895	Marionette	INFO	Listening on port 41163
+1626985604966	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/crq9ppghoqmequfeeo90tj286, line 3746: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/crq9ppghoqmequfeeo90tj286, line 3746: unreachable code after return statement
+1626985686465	Marionette	INFO	Stopped listening on port 41163
+1626985688709	Marionette	INFO	Stopped listening on port 34917
+1626985691584	geckodriver	INFO	Listening on 127.0.0.1:49589
+1626985691590	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7MRbkC"
+1626985692750	Marionette	INFO	Listening on port 42711
+1626985692793	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/crq9ppghoqmequfeeo90tj286, line 3746: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/crq9ppghoqmequfeeo90tj286, line 3746: unreachable code after return statement
+1626985898463	Marionette	INFO	Stopped listening on port 42711
+1626985902311	geckodriver	INFO	Listening on 127.0.0.1:34067
+1626985902316	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilez68CmM"
+1626985903429	Marionette	INFO	Listening on port 35739
+1626985903519	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/crq9ppghoqmequfeeo90tj286, line 3746: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/crq9ppghoqmequfeeo90tj286, line 3746: unreachable code after return statement
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1626986827183	Marionette	INFO	Stopped listening on port 35739
+1626991763082	geckodriver	INFO	Listening on 127.0.0.1:41239
+1626991763088	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekd0SBn"
+1626991764227	Marionette	INFO	Listening on port 42405
+1626991764291	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/crq9ppghoqmequfeeo90tj286, line 3746: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/crq9ppghoqmequfeeo90tj286, line 3746: unreachable code after return statement
+JavaScript error: https://static-exp1.licdn.com/sc/h/crq9ppghoqmequfeeo90tj286, line 1618: Error: Ember Data Request GET /voyager/api/me returned a 500
+Payload (application/json)
+[object Object]
+1626991783003	Marionette	INFO	Stopped listening on port 42405
+1626991785660	geckodriver	INFO	Listening on 127.0.0.1:40743
+1626991785665	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileX7gcdT"
+1626991786852	Marionette	INFO	Listening on port 36121
+1626991786871	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/aplojwm9akgh4o9ro90x2tow0, line 3746: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/aplojwm9akgh4o9ro90x2tow0, line 3746: unreachable code after return statement
+JavaScript error: https://static-exp1.licdn.com/sc/h/aplojwm9akgh4o9ro90x2tow0, line 1618: Error: Ember Data Request GET /voyager/api/me returned a 500
+Payload (application/json)
+[object Object]
+JavaScript error: https://static-exp1.licdn.com/sc/h/aplojwm9akgh4o9ro90x2tow0, line 1618: Error: Ember Data Request GET /voyager/api/me returned a 500
+Payload (application/json)
+[object Object]
+JavaScript error: https://static-exp1.licdn.com/sc/h/aplojwm9akgh4o9ro90x2tow0, line 1618: Error: Ember Data Request GET /voyager/api/me returned a 500
+Payload (application/json)
+[object Object]
+1626991822463	Marionette	INFO	Stopped listening on port 36121
+1626991832299	Marionette	INFO	Stopped listening on port 35787
+1626991837864	geckodriver	INFO	Listening on 127.0.0.1:40333
+1626991837871	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletARARB"
+1626991838989	Marionette	INFO	Listening on port 37933
+1626991839074	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/aplojwm9akgh4o9ro90x2tow0, line 3746: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/aplojwm9akgh4o9ro90x2tow0, line 3746: unreachable code after return statement
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626991861126	geckodriver	INFO	Listening on 127.0.0.1:52303
+1626991861132	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQ6Jb1h"
+1626991861392	Marionette	INFO	Stopped listening on port 37933
+1626991862242	Marionette	INFO	Listening on port 40165
+1626991862335	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/aplojwm9akgh4o9ro90x2tow0, line 3746: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/aplojwm9akgh4o9ro90x2tow0, line 3746: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+1626991919165	Marionette	INFO	Stopped listening on port 40165
+1626991923041	geckodriver	INFO	Listening on 127.0.0.1:60121
+1626991923046	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1ktjCo"
+1626991924169	Marionette	INFO	Listening on port 37065
+1626991924250	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://linkedin-api.arkoselabs.com/cdn/fc/js/8ef8104d1c774eb01cb9d74dc435ecda4bce86bc/standard/funcaptcha_api.js, line 2: unreachable code after return statement
+JavaScript warning: https://linkedin-api.arkoselabs.com/cdn/fc/js/8ef8104d1c774eb01cb9d74dc435ecda4bce86bc/standard/funcaptcha_api.js, line 2: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/aplojwm9akgh4o9ro90x2tow0, line 3746: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/aplojwm9akgh4o9ro90x2tow0, line 3746: unreachable code after return statement
+1626991958910	Marionette	INFO	Stopped listening on port 37065
+1626991960321	geckodriver	INFO	Listening on 127.0.0.1:57411
+1626991960327	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLItnqq"
+1626991961411	Marionette	INFO	Listening on port 38071
+1626991961435	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/crq9ppghoqmequfeeo90tj286, line 3746: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/crq9ppghoqmequfeeo90tj286, line 3746: unreachable code after return statement
+JavaScript error: https://static-exp1.licdn.com/sc/h/crq9ppghoqmequfeeo90tj286, line 1618: Error: Ember Data Request GET /voyager/api/me returned a 500
+Payload (application/json)
+[object Object]
+1626991970873	Marionette	INFO	Stopped listening on port 38071
+1626992005119	geckodriver	INFO	Listening on 127.0.0.1:34101
+1626992005124	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSoCV6X"
+1626992006216	Marionette	INFO	Listening on port 45209
+1626992006232	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/aplojwm9akgh4o9ro90x2tow0, line 3746: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/aplojwm9akgh4o9ro90x2tow0, line 3746: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1626992235555	Marionette	INFO	Stopped listening on port 45209
+1626992236864	geckodriver	INFO	Listening on 127.0.0.1:39121
+1626992236868	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXlEAAM"
+1626992238003	Marionette	INFO	Listening on port 43401
+1626992238072	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/aplojwm9akgh4o9ro90x2tow0, line 3746: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/aplojwm9akgh4o9ro90x2tow0, line 3746: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/aplojwm9akgh4o9ro90x2tow0, line 3746: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/aplojwm9akgh4o9ro90x2tow0, line 3746: unreachable code after return statement
+Extension error: SecurityError: Permission denied to access property "document" on cross-origin object undefined 153
+[[Exception stack
+activate@moz-extension://a288015f-32c8-4d79-8b59-5190073f3084/inspect.js:153:9
+setOptions@moz-extension://a288015f-32c8-4d79-8b59-5190073f3084/inspect.js:61:12
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:623:13
+applySafe@resource://gre/modules/ExtensionCommon.jsm:600:19
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:830:22
+]]
+Extension error: SecurityError: Permission denied to access property "document" on cross-origin object undefined 153
+[[Exception stack
+activate@moz-extension://a288015f-32c8-4d79-8b59-5190073f3084/inspect.js:153:9
+setOptions@moz-extension://a288015f-32c8-4d79-8b59-5190073f3084/inspect.js:61:12
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:623:13
+applySafe@resource://gre/modules/ExtensionCommon.jsm:600:19
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:830:22
+]]
+Extension error: SecurityError: Permission denied to access property "document" on cross-origin object undefined 153
+[[Exception stack
+activate@moz-extension://a288015f-32c8-4d79-8b59-5190073f3084/inspect.js:153:9
+setOptions@moz-extension://a288015f-32c8-4d79-8b59-5190073f3084/inspect.js:61:12
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:623:13
+applySafe@resource://gre/modules/ExtensionCommon.jsm:600:19
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:830:22
+]]
+Extension error: SecurityError: Permission denied to access property "document" on cross-origin object undefined 153
+[[Exception stack
+activate@moz-extension://a288015f-32c8-4d79-8b59-5190073f3084/inspect.js:153:9
+setOptions@moz-extension://a288015f-32c8-4d79-8b59-5190073f3084/inspect.js:61:12
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:623:13
+applySafe@resource://gre/modules/ExtensionCommon.jsm:600:19
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:830:22
+]]
+JavaScript error: moz-extension://a288015f-32c8-4d79-8b59-5190073f3084/background.js, line 10: Error: Permission denied to access property "document" on cross-origin object
+1626992442808	Marionette	INFO	Stopped listening on port 43401
+1626992446669	geckodriver	INFO	Listening on 127.0.0.1:60517
+1626992446673	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilei6J2Kn"
+1626992447762	Marionette	INFO	Listening on port 42775
+1626992447782	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/aplojwm9akgh4o9ro90x2tow0, line 3746: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/aplojwm9akgh4o9ro90x2tow0, line 3746: unreachable code after return statement
+1626992593448	Marionette	INFO	Stopped listening on port 42775
+1626992599116	geckodriver	INFO	Listening on 127.0.0.1:37699
+1626992599122	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZqZViJ"
+1626992600243	Marionette	INFO	Listening on port 37075
+1626992600325	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/crq9ppghoqmequfeeo90tj286, line 3746: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/crq9ppghoqmequfeeo90tj286, line 3746: unreachable code after return statement
+1626992954433	Marionette	INFO	Stopped listening on port 37075
+1626993002361	geckodriver	INFO	Listening on 127.0.0.1:36685
+1626993002366	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelClehz"
+1626993003513	Marionette	INFO	Listening on port 43141
+1626993003569	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/crq9ppghoqmequfeeo90tj286, line 3746: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/crq9ppghoqmequfeeo90tj286, line 3746: unreachable code after return statement
+1626993046625	geckodriver	INFO	Listening on 127.0.0.1:52403
+1626993046633	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevLPVF6"
+1626993047427	Marionette	INFO	Stopped listening on port 43141
+1626993047751	Marionette	INFO	Listening on port 45137
+1626993047837	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/crq9ppghoqmequfeeo90tj286, line 3746: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/crq9ppghoqmequfeeo90tj286, line 3746: unreachable code after return statement
+1626993092179	Marionette	INFO	Stopped listening on port 45137
+1626993093757	geckodriver	INFO	Listening on 127.0.0.1:39005
+1626993093762	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3O3Dqh"
+1626993094875	Marionette	INFO	Listening on port 34545
+1626993094966	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/crq9ppghoqmequfeeo90tj286, line 3746: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/crq9ppghoqmequfeeo90tj286, line 3746: unreachable code after return statement
+1626993150211	Marionette	INFO	Stopped listening on port 34545
+1626993153338	geckodriver	INFO	Listening on 127.0.0.1:38211
+1626993153342	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiler4Vbnk"
+1626993154413	Marionette	INFO	Listening on port 39523
+1626993154445	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/crq9ppghoqmequfeeo90tj286, line 3746: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/crq9ppghoqmequfeeo90tj286, line 3746: unreachable code after return statement
+1626993220902	Marionette	INFO	Stopped listening on port 39523
+1626994726139	geckodriver	INFO	Listening on 127.0.0.1:58457
+1626994726143	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4SQaI7"
+1626994727281	Marionette	INFO	Listening on port 38199
+1626994727347	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/aplojwm9akgh4o9ro90x2tow0, line 3746: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/aplojwm9akgh4o9ro90x2tow0, line 3746: unreachable code after return statement
+1626994818701	Marionette	INFO	Stopped listening on port 38199
+1626994820957	geckodriver	INFO	Listening on 127.0.0.1:56141
+1626994820961	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemdAufS"
+1626994822055	Marionette	INFO	Listening on port 39113
+1626994822070	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/aplojwm9akgh4o9ro90x2tow0, line 3746: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/aplojwm9akgh4o9ro90x2tow0, line 3746: unreachable code after return statement
+1626994883638	Marionette	INFO	Stopped listening on port 39113
+1626994901107	geckodriver	INFO	Listening on 127.0.0.1:44325
+1626994901113	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileK3FSee"
+1626994902176	Marionette	INFO	Listening on port 35227
+1626994902216	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/aplojwm9akgh4o9ro90x2tow0, line 3746: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/aplojwm9akgh4o9ro90x2tow0, line 3746: unreachable code after return statement
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+JavaScript warning: https://static-exp1.licdn.com/sc/h/aplojwm9akgh4o9ro90x2tow0, line 3746: unreachable code after return statement
+Extension error: SecurityError: Permission denied to access property "document" on cross-origin object undefined 153
+[[Exception stack
+activate@moz-extension://fd9d7be8-af2a-48d8-a67f-fe9c775aa382/inspect.js:153:9
+setOptions@moz-extension://fd9d7be8-af2a-48d8-a67f-fe9c775aa382/inspect.js:61:12
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:623:13
+applySafe@resource://gre/modules/ExtensionCommon.jsm:600:19
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:830:22
+]]
+Extension error: SecurityError: Permission denied to access property "document" on cross-origin object undefined 153
+[[Exception stack
+activate@moz-extension://fd9d7be8-af2a-48d8-a67f-fe9c775aa382/inspect.js:153:9
+setOptions@moz-extension://fd9d7be8-af2a-48d8-a67f-fe9c775aa382/inspect.js:61:12
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:623:13
+applySafe@resource://gre/modules/ExtensionCommon.jsm:600:19
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:830:22
+]]
+Extension error: SecurityError: Permission denied to access property "document" on cross-origin object undefined 153
+[[Exception stack
+activate@moz-extension://fd9d7be8-af2a-48d8-a67f-fe9c775aa382/inspect.js:153:9
+setOptions@moz-extension://fd9d7be8-af2a-48d8-a67f-fe9c775aa382/inspect.js:61:12
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:623:13
+applySafe@resource://gre/modules/ExtensionCommon.jsm:600:19
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:830:22
+]]
+Extension error: SecurityError: Permission denied to access property "document" on cross-origin object undefined 153
+[[Exception stack
+activate@moz-extension://fd9d7be8-af2a-48d8-a67f-fe9c775aa382/inspect.js:153:9
+setOptions@moz-extension://fd9d7be8-af2a-48d8-a67f-fe9c775aa382/inspect.js:61:12
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:623:13
+applySafe@resource://gre/modules/ExtensionCommon.jsm:600:19
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:830:22
+]]
+JavaScript error: moz-extension://fd9d7be8-af2a-48d8-a67f-fe9c775aa382/background.js, line 10: Error: Permission denied to access property "document" on cross-origin object
+1626995663722	Marionette	INFO	Stopped listening on port 35227
+1626995672635	geckodriver	INFO	Listening on 127.0.0.1:39987
+1626995672641	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileP1stI4"
+1626995673763	Marionette	INFO	Listening on port 46767
+1626995673844	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/aplojwm9akgh4o9ro90x2tow0, line 3746: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/aplojwm9akgh4o9ro90x2tow0, line 3746: unreachable code after return statement
+1626995888687	Marionette	INFO	Stopped listening on port 46767
+1626995893242	geckodriver	INFO	Listening on 127.0.0.1:60777
+1626995893246	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCUxLZW"
+1626995894334	Marionette	INFO	Listening on port 40853
+1626995894350	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/aplojwm9akgh4o9ro90x2tow0, line 3746: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/aplojwm9akgh4o9ro90x2tow0, line 3746: unreachable code after return statement
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://artoftesting.com/press-enter-tab-space-arrow-function-keys-in-selenium-webdriver-with-java line 1 > scriptElement, line 25: ReferenceError: SyntaxHighlighter is not defined
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.06c6ee58c3810956b7509218508c7b56.html?origin=https%3A%2F%2Fartoftesting.com, line 18: Error: Network error.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1626996041307	Marionette	INFO	Stopped listening on port 40853
+1627044669327	geckodriver	INFO	Listening on 127.0.0.1:35853
+1627044670363	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileubFOOE"
+1627044671469	Marionette	INFO	Listening on port 38961
+1627044671566	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/aplojwm9akgh4o9ro90x2tow0, line 3746: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/aplojwm9akgh4o9ro90x2tow0, line 3746: unreachable code after return statement
+1627044765029	Marionette	INFO	Stopped listening on port 38961
+1627044768592	geckodriver	INFO	Listening on 127.0.0.1:49089
+1627044768636	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaafR1M"
+1627044769749	Marionette	INFO	Listening on port 39677
+1627044769839	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/aplojwm9akgh4o9ro90x2tow0, line 3746: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/aplojwm9akgh4o9ro90x2tow0, line 3746: unreachable code after return statement
+1627045484594	geckodriver	INFO	Listening on 127.0.0.1:59493
+1627045484633	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezVWHfA"
+1627045485701	Marionette	INFO	Listening on port 44553
+1627045485736	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/aplojwm9akgh4o9ro90x2tow0, line 3746: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/aplojwm9akgh4o9ro90x2tow0, line 3746: unreachable code after return statement
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1627045547097	Marionette	INFO	Stopped listening on port 44553
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1627045865946	Marionette	INFO	Stopped listening on port 39677
+1627045870345	geckodriver	INFO	Listening on 127.0.0.1:41503
+1627045870388	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileI0Kb29"
+1627045871450	Marionette	INFO	Listening on port 43919
+1627045871491	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/aplojwm9akgh4o9ro90x2tow0, line 3746: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/aplojwm9akgh4o9ro90x2tow0, line 3746: unreachable code after return statement
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1627045926540	Marionette	INFO	Stopped listening on port 43919
+1627047526212	geckodriver	INFO	Listening on 127.0.0.1:35435
+1627047526256	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileF4V9yI"
+1627047527269	Marionette	INFO	Listening on port 39301
+1627047527359	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/aplojwm9akgh4o9ro90x2tow0, line 3746: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/aplojwm9akgh4o9ro90x2tow0, line 3746: unreachable code after return statement
+1627047570007	geckodriver	INFO	Listening on 127.0.0.1:46911
+1627047570014	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekKzUUl"
+1627047570021	Marionette	INFO	Stopped listening on port 39301
+1627047571084	Marionette	INFO	Listening on port 38859
+1627047571117	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/aplojwm9akgh4o9ro90x2tow0, line 3746: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/aplojwm9akgh4o9ro90x2tow0, line 3746: unreachable code after return statement
+1627047630900	Marionette	INFO	Stopped listening on port 38859
+1627047649961	geckodriver	INFO	Listening on 127.0.0.1:34125
+1627047650004	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8GqwDR"
+1627047651089	Marionette	INFO	Listening on port 39645
+1627047651107	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/aplojwm9akgh4o9ro90x2tow0, line 3746: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/aplojwm9akgh4o9ro90x2tow0, line 3746: unreachable code after return statement
+1627047697989	Marionette	INFO	Stopped listening on port 39645
+1627047732941	geckodriver	INFO	Listening on 127.0.0.1:38235
+1627047732985	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePl50tx"
+1627047734066	Marionette	INFO	Listening on port 44341
+1627047734089	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/aplojwm9akgh4o9ro90x2tow0, line 3746: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/aplojwm9akgh4o9ro90x2tow0, line 3746: unreachable code after return statement
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1627047849988	Marionette	INFO	Stopped listening on port 44341
