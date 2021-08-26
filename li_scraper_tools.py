@@ -51,7 +51,7 @@ def log_in_to_linkedin():
     #USERNAME = input("Enter username: ")
     USERNAME = "cephalopod31956@gmail.com"
     # PASSWORD = getpass.getpass(f"Enter password: ")
-    PASSWORD = "Rxpc3^GG"
+    PASSWORD = getpass.getpass("enter password: ")
     # We'll now login using the provided credentials
     email = driver.find_element_by_id("username")
     # print(email)
