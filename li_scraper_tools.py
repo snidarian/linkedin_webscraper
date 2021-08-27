@@ -76,6 +76,7 @@ def global_search() -> None:
     search_box.send_keys(search_term)
     search_box.send_keys(Keys.RETURN)
     time.sleep(5)
+    
 
 
 def navigate_to_home_through_home_icon() -> None:
